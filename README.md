@@ -1,1 +1,2 @@
 # pandas-challenge
+completed the pandas challenge on the pandas script. calculating all this requred exercises. including, District summary, school summary,highest performing schools (by % overall passing), lowest-performing school(by % overall passing), maths scores by grade, reading scores by grade, scores by school spending and scores by school type. 
